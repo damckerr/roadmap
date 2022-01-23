@@ -1,10 +1,5 @@
-* {
-  margin: 5px;
-  padding: 25px 25px;
-  line-height: 1rem;
-}
-
 html {
+  padding: 5px;
   background: #1670ff;
   color: #d0dfff;
   font-family: Arial, Helvetica, sans-serif;
@@ -29,6 +24,7 @@ ol {
 li {
   list-style: circle;
   text-transform: lowercase;
+  padding: 10px;
 }
 
 .current {
